@@ -1,0 +1,9 @@
+2025-06-15 17:49:05 - INFO - AlertID: 6dcf2c55-3c55-49a8-8e92-427ce0139697 - Testing logging functionality
+2025-06-15 17:49:06 - WARNING - AlertID: cfe46f60-a0c5-402a-a708-efaa81b5988b - Spam-like behavior detected from 000.00.00.0.0 to port 443: 6 packets in 5s (src_ip: 192.168.1.9, dst_ip: 20.44.10.123, dst_port: 443, protocol: TCP, spam_count: 6)
+2025-06-15 17:49:07 - WARNING - AlertID: ec083bd3-9100-4a29-9eb7-02dec0127693 - Spam-like behavior detected from 000.00.00.0.0 to port 443: 6 packets in 5s (src_ip: 192.168.1.9, dst_ip: 20.44.10.123, dst_port: 443, protocol: TCP, spam_count: 6)
+2025-06-15 17:49:07 - WARNING - AlertID: a58e13f5-27d6-40b4-8ac9-99807f873453 - Spam-like behavior detected from 52.168.117.169 to port 52350: 6 packets in 5s (src_ip: 52.168.117.169, dst_ip: 192.168.1.9, dst_port: 52350, protocol: TCP, spam_count: 6)
+2025-06-15 17:49:07 - WARNING - AlertID: 3fa06d45-7ebb-40f6-b96d-9f90312fe1f4 - Spam-like behavior detected from 000.00.00.0.0 to port 52330: 6 packets in 5s (src_ip: 20.44.10.123, dst_ip: 192.168.1.9, dst_port: 52330, protocol: TCP, spam_count: 6)
+2025-06-15 17:49:24 - WARNING - AlertID: 2e958050-1081-4a8d-9560-24a9c1a6f4f0 - Spam-like behavior detected from 142.251.221.194 to port 52336: 6 packets in 5s (src_ip: 142.251.221.194, dst_ip: 192.168.1.9, dst_port: 52336, protocol: TCP, spam_count: 6)
+2025-06-15 17:49:24 - WARNING - AlertID: dc60d539-363d-44d2-88ba-91a9b0ba2b9c - Spam-like behavior detected from 192.168.1.9 to port 443: 6 packets in 5s (src_ip: 192.168.1.9, dst_ip: 142.251.221.194, dst_port: 443, protocol: TCP, spam_count: 6)
+2025-06-15 17:49:25 - WARNING - AlertID: 21006661-eecc-4687-bcfd-3fd437a3b3a7 - Spam-like behavior detected from 192.168.1.9 to port 443: 6 packets in 5s (src_ip: 192.168.1.9, dst_ip: 4.1.82.186, dst_port: 443, protocol: TCP, spam_count: 6)
+2025-06-15 17:49:25 - WARNING - AlertID: 3b8f0c1e-2d6a-4c7b-bf9d-8f0c1e2d6a4 - Spam-like behavior detected from
